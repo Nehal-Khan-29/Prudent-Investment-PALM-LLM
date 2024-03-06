@@ -4,3 +4,4 @@ Palm LLM 2 is a powerful platform that offers a range of capabilities, including
 
 ## Try It here
 
+https://nehal-khan-29.github.io/Prudent-Investment-PALM-LLM/
